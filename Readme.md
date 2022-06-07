@@ -16,3 +16,8 @@ Thomas Tejeda:
 
 •24 años, Estudiante de Programación FullStack en DigitalHouse y Fundación Formar.
 ________________________________________________________________________________
+
+Benjamin Mayta:
+
+•25 años, Estudiante de Programación FullStack en DigitalHouse y Fundación Formar.
+________________________________________________________________________________
