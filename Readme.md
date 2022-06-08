@@ -4,15 +4,15 @@
 
 Kevin Rodriguez:
 
-•19 años, Estudiante de Programador FullStack en DigitalHouse y Fundación Formar.
+•19 años, Estudiante de Programación FullStack en DigitalHouse y Fundación Formar.
 ________________________________________________________________________________
 
 Leandro Rios:
 
-•28 años, Estudiante de Programador FullStack en DigitalHouse y Fundación Formar.
+•28 años, Estudiante de Programación FullStack en DigitalHouse y Fundación Formar.
 ________________________________________________________________________________
 
 Thomas Tejeda:
 
-•24 años, Estudiante de Programador FullStack en DigitalHouse y Fundación Formar.
+•24 años, Estudiante de Programación FullStack en DigitalHouse y Fundación Formar.
 ________________________________________________________________________________
