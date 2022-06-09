@@ -1,4 +1,4 @@
-# Grupo_5_TheMusicStore
+# Grupo_12_TheMusicStore
 
 # Integrantes:
 
