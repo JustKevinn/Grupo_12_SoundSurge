@@ -26,20 +26,20 @@ ________________________________________________________________________________
 
 KAIRON MUSIC:
 https://www.kaironmusic.com.ar/
-(Agregar descripcion)
+Esta primer pagina fue tomada de referencia por su header, su paleta de colores y sus animaciones.
 
 LA CASA DEL MUSICO:
 https://lacasadelmusico.com.ar/
-(Agregar descripcion)
+Esta segunda pagina fue elegida por las luces y la atmosfera que crea con el fondo.
 
 BAIRES ROCK:
 https://www.baires.rocks/
-(Agregar descripcion)
+Esta pagina fue elegida por su amplio catalogo y su diseño limpio.
 
 FAMUSIC:
 https://www.famusic.com.ar/
-(Agregar descripcion)
+Esta pagina ofrece gran variedad de accesorios por lo que fue tomada en cuenta.
 
 TODO MUSICA:
 https://todomusica.com.ar/
-(Agregar descripcion)
+Esta ultima pagina tiene una presentacion impactante y su apartado de luces hace que sea tomada en referencia.
