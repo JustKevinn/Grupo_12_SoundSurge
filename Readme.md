@@ -1,5 +1,4 @@
 # Grupo_12_SoundSurge
-[![logo-3.png](https://i.postimg.cc/CMDmDNvv/logo-3.png)](https://postimg.cc/c6xRGQGY)
 
 # Integrantes:
 
@@ -63,4 +62,5 @@ En SoundSurge apuntamos a la pasíon por la musica, ya sea para gente que cuente
 ________________________________________________________________________________
 
 # Logo de la pagina:
+[![logo-3.png](https://i.postimg.cc/CMDmDNvv/logo-3.png)](https://postimg.cc/c6xRGQGY)
 
