@@ -1,4 +1,5 @@
 # Grupo_12_SoundSurge
+[![logo-3.png](https://i.postimg.cc/CMDmDNvv/logo-3.png)](https://postimg.cc/c6xRGQGY)
 
 # Integrantes:
 
